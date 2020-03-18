@@ -1,5 +1,8 @@
 _repo: The-Secret-Doctrine-Vol-4-of-4-The-Synthesis-of-Science-Religion-and-Philosophy_61626
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61626-h/images/cover.jpg
 creator:
   author:
     agent_name: Blavatsky, H. P. (Helena Petrovna)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2154
     wikipedia: http://en.wikipedia.org/wiki/Helena_Petrovna_Blavatsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61626#The-Secret-Doctrine-Vol-4-of-4-The-Synthesis-of-Science-Religion-and-Philosophy
 gutenberg_issued: '2020-03-15'
 gutenberg_type: Text
 identifiers:
